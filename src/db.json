@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "name": "ssstg",
+      "email": "d@gmail.com",
+      "password": "7596",
+      "id": 12
+    },
+    {
+      "name": "new",
+      "email": "d@gmail.com",
+      "password": "new",
+      "id": 13
+    },
+    {
+      "name": "gtr",
+      "email": "d@gmail.com",
+      "password": "egg",
+      "id": 14
+    },
+    {
+      "name": "pst",
+      "email": "d@gmail.com",
+      "password": "2121",
+      "id": 15
+    },
+    {
+      "name": "nchcjcjcjch",
+      "email": "concentrix397@gmail.com",
+      "password": "sdfh",
+      "id": 16
+    },
+    {
+      "name": "d",
+      "email": "concentrix397@gmail.com",
+      "password": "33",
+      "id": 17
+    },
+    {
+      "name": "bruno",
+      "email": "concentrix397@gmail.com",
+      "password": "bru",
+      "id": 18
+    },
+    {
+      "name": "yadav",
+      "email": "concentrix397@gmail.com",
+      "password": "nn",
+      "id": 19
+    },
+    {
+      "name": "yadav",
+      "email": "ff@gmail.com",
+      "password": "tt",
+      "id": 20
+    },
+    {
+      "name": "hgf",
+      "email": "d@gmail.com",
+      "password": "ff",
+      "": "on",
+      "id": 21
+    },
+    {
+      "name": "hgf",
+      "email": "d@gmail.com",
+      "password": "ff",
+      "": "on",
+      "id": 22
+    },
+    {
+      "name": "d",
+      "email": "concentrix397@gmail.com",
+      "password": "hh",
+      "": "male",
+      "id": 23
+    },
+    {
+      "name": "kartik",
+      "email": "concentrix397@gmail.com",
+      "password": "uu",
+      "Gender": null,
+      "": "female",
+      "id": 24
+    },
+    {
+      "name": "dvd",
+      "email": "d@gmail.com",
+      "password": "hh",
+      "gender": "male",
+      "id": 25
+    },
+    {
+      "name": "dvdfuuuuuuuu",
+      "email": "d@gmail.com",
+      "password": "hhuuuuu",
+      "gender": "female",
+      "id": 26
+    }
+  ]
+}
